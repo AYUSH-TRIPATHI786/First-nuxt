@@ -1,4 +1,3 @@
-# first-nuxt
 
 ## Build Setup
 
